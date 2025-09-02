@@ -1,0 +1,7 @@
+AWS_ACCOUNT_ID=<ACCOUNT_ID>
+AWS_REGION=us-west-2
+ECR_REPO=lambda-anomaly-detector
+FUNCTION_NAME=lambda-anomaly-detector
+LAMBDA_ROLE_ARN=arn:aws:iam::<ACCOUNT_ID>:role/lambda-tutorial
+ARCH=arm64
+IMAGE_TAG=latest
