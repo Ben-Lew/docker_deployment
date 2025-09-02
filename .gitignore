@@ -1,1 +1,17 @@
+# env & outputs
 .env
+response.json
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# editors/OS
+.vscode/
+.idea/
+.DS_Store
+
+# logs & junk
+*.log
